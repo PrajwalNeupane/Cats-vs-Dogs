@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
 
-2. Extract the `PetImages` folder from the zip file and place it inside the `tmp` directory in the project folder.
+2. Extract the `PetImages` folder from the zip file and place it inside the `tmp` (you need to create the directory) directory in the project folder.
 
 ## Usage
 
